@@ -8,7 +8,7 @@ location by using a location algorithm and reciving that data from each student 
 information will be sent to a server for record keeping.
 
 Team members -
-Duncan Macdonald 
-Briant Elliot 
-Aakash Sudhakar
-Elmer Astudillo
+Duncan Macdonald, 
+Briant Elliot, 
+Aakash Sudhakar,
+Elmer Astudillo.
