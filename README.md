@@ -14,4 +14,7 @@ Aakash Sudhakar,
 Elmer Astudillo.
 
 resources: 
-[a link](https://web.wpi.edu/Pubs/E-project/Available/E-project-042517-170052/unrestricted/COMPLETE_eCDR_MQP_SUBMISSION.pdf)
+Smart Room Attendance Tracker - [documentation](https://web.wpi.edu/Pubs/E-project/Available/E-project-042517-170052/unrestricted/COMPLETE_eCDR_MQP_SUBMISSION.pdf).
+Beacon tracking with Node.js - [link](https://blog.truthlabs.com/beacon-tracking-with-node-js-and-raspberry-pi-794afa880318).
+Tracking mobile BlueTooth LE iBeacon engagements with Node.js - [link](https://github.com/mschmulen/tracking-bluetooth-ibeacons-with-node)
+
