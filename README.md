@@ -12,3 +12,6 @@ Duncan Macdonald,
 Briant Elliot, 
 Aakash Sudhakar,
 Elmer Astudillo.
+
+resources: 
+[a link](https://web.wpi.edu/Pubs/E-project/Available/E-project-042517-170052/unrestricted/COMPLETE_eCDR_MQP_SUBMISSION.pdf)
